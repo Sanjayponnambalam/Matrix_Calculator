@@ -14,7 +14,7 @@
 - For this Program, we'll import numpy module, which is a readily available python 
   module.
 
-===== The Link to install (numpy module) is here!!..Check it out!![https://pypi.org/project/numpy/] =====
+===== The Link to install [numpy module] is here!!..Check it out!!(https://pypi.org/project/numpy/) =====
 
 Just copy the command and run in your CMD and you're good to go.
 
