@@ -6,7 +6,7 @@
 
 - This Program can add , subract and multiply any 2 or 3 given matrices.
 
-- It can also find the Transpose, Inverse of a matrix and could valid whether a 
+- It can also find the Transpose, Inverse of a matrix and could validate whether a 
   given matrix is Orthogonal or not.
   
 # REQUISITE
